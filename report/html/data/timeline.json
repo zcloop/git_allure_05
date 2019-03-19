@@ -1,0 +1,85 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-0BM5I6A",
+    "children" : [ {
+      "name" : "8436-MainThread",
+      "children" : [ {
+        "name" : "Test01.test06",
+        "uid" : "c5c93f62cc12f2a1",
+        "parentUid" : "d9b5eb0f4162bb72fee21be56e639688",
+        "status" : "failed",
+        "time" : {
+          "start" : 1552964789212,
+          "stop" : 1552964789282,
+          "duration" : 70
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Test01.test05",
+        "uid" : "e1b3bfe30ff0c54a",
+        "parentUid" : "d9b5eb0f4162bb72fee21be56e639688",
+        "status" : "passed",
+        "time" : {
+          "start" : 1552964789212,
+          "stop" : 1552964789212,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Test01.test01",
+        "uid" : "d3a33bed839b1b72",
+        "parentUid" : "d9b5eb0f4162bb72fee21be56e639688",
+        "status" : "passed",
+        "time" : {
+          "start" : 1552964789162,
+          "stop" : 1552964789172,
+          "duration" : 10
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Test01.test03",
+        "uid" : "56e9c11115706e5a",
+        "parentUid" : "d9b5eb0f4162bb72fee21be56e639688",
+        "status" : "passed",
+        "time" : {
+          "start" : 1552964789192,
+          "stop" : 1552964789192,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Test01.test04",
+        "uid" : "4c94a1886bb99c0d",
+        "parentUid" : "d9b5eb0f4162bb72fee21be56e639688",
+        "status" : "passed",
+        "time" : {
+          "start" : 1552964789202,
+          "stop" : 1552964789202,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Test01.test02",
+        "uid" : "3dddf5bf6605ffb6",
+        "parentUid" : "d9b5eb0f4162bb72fee21be56e639688",
+        "status" : "passed",
+        "time" : {
+          "start" : 1552964789192,
+          "stop" : 1552964789192,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "d9b5eb0f4162bb72fee21be56e639688"
+    } ],
+    "uid" : "a91c78b614dc854f7d0035fe3a51cf5a"
+  } ]
+}

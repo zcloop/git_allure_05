@@ -1,0 +1,66 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1552973788720" stop="1552973788740">
+  <name>test02</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1552973788720" status="passed" stop="1552973788720">
+      <name>Test02.test01[5-8]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="1680-MainThread"/>
+        <label name="host" value="DESKTOP-0BM5I6A"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1552973788720" status="passed" stop="1552973788730">
+      <name>Test02.test01[2-11]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="1680-MainThread"/>
+        <label name="host" value="DESKTOP-0BM5I6A"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1552973788730" status="passed" stop="1552973788730">
+      <name>Test02.test01[8-9]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="1680-MainThread"/>
+        <label name="host" value="DESKTOP-0BM5I6A"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1552973788730" status="passed" stop="1552973788730">
+      <name>Test02.test01[6-2]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="1680-MainThread"/>
+        <label name="host" value="DESKTOP-0BM5I6A"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1552973788730" status="passed" stop="1552973788740">
+      <name>Test02.test01[3-25]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="1680-MainThread"/>
+        <label name="host" value="DESKTOP-0BM5I6A"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

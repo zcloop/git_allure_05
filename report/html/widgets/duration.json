@@ -1,0 +1,61 @@
+[ {
+  "uid" : "c5c93f62cc12f2a1",
+  "name" : "Test01.test06",
+  "time" : {
+    "start" : 1552964789212,
+    "stop" : 1552964789282,
+    "duration" : 70
+  },
+  "status" : "failed",
+  "severity" : "trivial"
+}, {
+  "uid" : "e1b3bfe30ff0c54a",
+  "name" : "Test01.test05",
+  "time" : {
+    "start" : 1552964789212,
+    "stop" : 1552964789212,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+}, {
+  "uid" : "d3a33bed839b1b72",
+  "name" : "Test01.test01",
+  "time" : {
+    "start" : 1552964789162,
+    "stop" : 1552964789172,
+    "duration" : 10
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "56e9c11115706e5a",
+  "name" : "Test01.test03",
+  "time" : {
+    "start" : 1552964789192,
+    "stop" : 1552964789192,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4c94a1886bb99c0d",
+  "name" : "Test01.test04",
+  "time" : {
+    "start" : 1552964789202,
+    "stop" : 1552964789202,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "3dddf5bf6605ffb6",
+  "name" : "Test01.test02",
+  "time" : {
+    "start" : 1552964789192,
+    "stop" : 1552964789192,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

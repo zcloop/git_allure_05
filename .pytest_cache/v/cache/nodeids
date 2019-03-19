@@ -1,0 +1,7 @@
+[
+  "scripts/test02.py::Test02::()::test01[5-8]",
+  "scripts/test02.py::Test02::()::test01[2-11]",
+  "scripts/test02.py::Test02::()::test01[8-9]",
+  "scripts/test02.py::Test02::()::test01[6-2]",
+  "scripts/test02.py::Test02::()::test01[3-25]"
+]

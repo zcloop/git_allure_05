@@ -1,0 +1,103 @@
+{
+  "uid" : "d3a33bed839b1b72",
+  "name" : "Test01.test01",
+  "fullName" : "test01.Test01.test01",
+  "historyId" : "aaaa227e4932fddbf599f7e57e085a49",
+  "time" : {
+    "start" : 1552964789162,
+    "stop" : 1552964789172,
+    "duration" : 10
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "这是测试第一步",
+      "time" : {
+        "start" : 1552964789172,
+        "stop" : 1552964789172,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "f682f1a8204c46ee",
+        "name" : "点击登录",
+        "source" : "f682f1a8204c46ee.txt",
+        "type" : "text/plain",
+        "size" : 0
+      }, {
+        "uid" : "281eefe4e9c1bc6d",
+        "name" : "输入用户名",
+        "source" : "281eefe4e9c1bc6d.txt",
+        "type" : "text/plain",
+        "size" : 0
+      }, {
+        "uid" : "7865aa2870691ee9",
+        "name" : "输入密码",
+        "source" : "7865aa2870691ee9.txt",
+        "type" : "text/plain",
+        "size" : 0
+      } ],
+      "parameters" : [ ],
+      "attachmentsCount" : 3,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 3,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 1,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-0BM5I6A"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "8436-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "test01"
+  }, {
+    "name" : "testClass",
+    "value" : "test01"
+  }, {
+    "name" : "testMethod",
+    "value" : "Test01.test01"
+  }, {
+    "name" : "package",
+    "value" : "test01"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d3a33bed839b1b72.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,94 @@
+{
+  "uid" : "c5c93f62cc12f2a1",
+  "name" : "Test01.test06",
+  "fullName" : "test01.Test01.test06",
+  "historyId" : "a8f642401cd92f51ccdb4fe0e806b3f3",
+  "time" : {
+    "start" : 1552964789212,
+    "stop" : 1552964789282,
+    "duration" : 70
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "AssertionError: assert False",
+  "statusTrace" : "self = <test01.Test01 object at 0x0365D3F0>\n\n    @allure.step(\"这是测试第六步\")\n    @allure.severity(\"trivial\") # 设置用例优先级 ,如果断言错误，那么这也是bug的严重级别\n    def test06(self):\n        print(\"test06被执行\")\n>       assert False #断言错误\nE       assert False\n\nscripts\\test01.py:39: AssertionError",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "AssertionError: assert False",
+    "statusTrace" : "self = <test01.Test01 object at 0x0365D3F0>\n\n    @allure.step(\"这是测试第六步\")\n    @allure.severity(\"trivial\") # 设置用例优先级 ,如果断言错误，那么这也是bug的严重级别\n    def test06(self):\n        print(\"test06被执行\")\n>       assert False #断言错误\nE       assert False\n\nscripts\\test01.py:39: AssertionError",
+    "steps" : [ {
+      "name" : "这是测试第六步",
+      "time" : {
+        "start" : 1552964789212,
+        "stop" : 1552964789212,
+        "duration" : 0
+      },
+      "status" : "failed",
+      "statusMessage" : "self = <test01.Test01 object at 0x0365D3F0>\n\n    @allure.step(\"这是测试第六步\")\n    @allure.severity(\"trivial\") # 设置用例优先级 ,如果断言错误，那么这也是bug的严重级别\n    def test06(self):\n        print(\"test06被执行\")\n>       assert False #断言错误\nE       assert False\n\nscripts\\test01.py:39: AssertionError",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : true,
+      "stepsCount" : 0,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : true,
+    "stepsCount" : 1,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-0BM5I6A"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "trivial"
+  }, {
+    "name" : "thread",
+    "value" : "8436-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "test01"
+  }, {
+    "name" : "testClass",
+    "value" : "test01"
+  }, {
+    "name" : "testMethod",
+    "value" : "Test01.test06"
+  }, {
+    "name" : "package",
+    "value" : "test01"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "trivial",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "c5c93f62cc12f2a1.json",
+  "parameterValues" : [ ]
+}
